@@ -1,2 +1,7 @@
-# basic_java
-Covering the very basics of Java
+# Basic Java Overview
+  - Cover the basic concepts in Java
+    - Classes
+    - Objects
+    - Methods
+    - Flow of execution
+  -
