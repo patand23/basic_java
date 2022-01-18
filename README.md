@@ -7,6 +7,7 @@
 
 ## Getting Started
   -Fork Repository
+  
   -Create Project in IntelliJ using CSV
   *Talk about objects, classes and methods here*
   
