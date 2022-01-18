@@ -8,8 +8,11 @@
   ## Getting Started
   -Fork Repository
   -Create Project in IntelliJ using CSV
+  *Talk about objects, classes and methods here*
   
-    import java.util.*;
+  
+  
+    import java.util.Scanner;
     
     Scanner sc= new Scanner(System.in);
     System.out.print("Enter first number: ");
