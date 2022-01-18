@@ -5,8 +5,11 @@
     - Methods
     - Flow of execution
 
-  ## 
+  ## Getting Started
+    -Fork Repository
+    -Create Project in IntelliJ using CSV
+    -
 
-  ## Flow of Execution
-    - Execution starts with the main method
-    - Statements are generally executed from top to bottom, unless otherwise specified (ie. entering a loop or accessing a method) 
+## Flow of Execution
+  - Execution starts with the main method
+  - Statements are generally executed from top to bottom, unless otherwise specified (ie. entering a loop or accessing a method) 
