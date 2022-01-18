@@ -6,9 +6,18 @@
     - Flow of execution
 
   ## Getting Started
-    -Fork Repository
-    -Create Project in IntelliJ using CSV
-    -
+  -Fork Repository
+  -Create Project in IntelliJ using CSV
+  
+    import java.util.*;
+    
+    Scanner sc= new Scanner(System.in);
+    System.out.print("Enter first number- ");
+    int a= sc.nextInt();
+    System.out.print("Enter second number- ");
+    int b= sc.nextInt();
+    int c = a + b;
+    System.out.print("Total = "+c);
 
 ## Flow of Execution
   - Execution starts with the main method
