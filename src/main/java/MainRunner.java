@@ -8,7 +8,7 @@ public class MainRunner
         // turn on the light by calling method turnOn()
         // turn off the light by calling method turnOff()
         System.out.print("Is the dog's light on? ");
-        dog_light.turnOn();
+        dog_light.turnOff();
 
         System.out.print("Is the cat's light on? ");
         cat_light.turnOn();
