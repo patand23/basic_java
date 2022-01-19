@@ -1,6 +1,6 @@
 # Basic Java Overview
   - Covering the basic concepts in Java
-    - Object Oriented Programming (OOP)   (https://www.freecodecamp.org/news/four-pillars-of-object-oriented-programming/)
+    - Object Oriented Programming (OOP)   
     - Classes
     - Objects
     - Methods
@@ -17,6 +17,22 @@
   
 ## Abstraction
 
+        Dog dog = new Dog();
+        System.out.print("The dog");
+        if (dogs_light.isOn) {
+            dog.eat();
+            dog.makeSound();
+        } else {
+            dog.sleep();
+        }
+
+        System.out.print("The cat");
+        if (cats_light.isOn) {
+            cat.eat();
+            cat.makeSound();
+        } else {
+            cat.sleep();
+        }
 ## Encapsulation
 
   
@@ -24,3 +40,6 @@
 ## Flow of Execution
   - Execution starts with the main method
   - Statements are generally executed from top to bottom, unless otherwise specified (ie. entering a loop or accessing a method) 
+
+## Some Useful Links
+OOP - https://www.freecodecamp.org/news/four-pillars-of-object-oriented-programming/
