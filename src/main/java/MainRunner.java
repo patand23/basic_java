@@ -2,18 +2,16 @@ public class MainRunner
 {
     public static void main(String[] args) {
         // create objects led and halogen
-        Lamp led = new Lamp();
-        Lamp halogen = new Lamp();
+        Lamp dog_light = new Lamp();
+        Lamp cat_light = new Lamp();
 
-        // turn on the light by
-        // calling method turnOn()
-        System.out.print("Is the led light on? ");
-        led.turnOff();
+        // turn on the light by calling method turnOn()
+        // turn off the light by calling method turnOff()
+        System.out.print("Is the dog's light on? ");
+        dog_light.turnOn();
 
-        // turn off the light by
-        // calling method turnOff()
-        System.out.print("Is the halogen light on? ");
-        halogen.turnOn();
+        System.out.print("Is the cat's light on? ");
+        cat_light.turnOn();
     }
 
 }

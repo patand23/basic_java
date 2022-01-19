@@ -7,7 +7,6 @@ public class Lamp {
     void turnOn() {
         isOn = true;
         System.out.println(isOn);
-
     }
 
     // method to turnoff the light
