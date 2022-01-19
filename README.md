@@ -9,22 +9,17 @@
 ## Getting Started
   -Fork Repository
   
-  -Create Project in IntelliJ using CSV  *Talk about objects, classes and methods here*
+  -Create Project in IntelliJ using CSV
   
+  -Within the Lamp.java file, we can see a simple example of a class, a variable and a couple methods
   
+  -Within the MainRunner.java file, we can see how to create objects from classes, and how to call methods
   
+## Abstraction
+
+## Encapsulation
+
   
-  
-  
-    import java.util.Scanner;
-    
-    Scanner sc= new Scanner(System.in);
-    System.out.print("Enter first number: ");
-    int a= sc.nextInt();
-    System.out.print("Enter second number: ");
-    int b= sc.nextInt();
-    int c = a + b;
-    System.out.print("Total = " + c);
 
 ## Flow of Execution
   - Execution starts with the main method
