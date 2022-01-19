@@ -17,6 +17,8 @@
   
 ## Abstraction
 
+  -Example code
+
         Dog dog = new Dog();
         System.out.print("The dog");
         if (dogs_light.isOn) {
@@ -25,16 +27,8 @@
         } else {
             dog.sleep();
         }
-
-        System.out.print("The cat");
-        if (cats_light.isOn) {
-            cat.eat();
-            cat.makeSound();
-        } else {
-            cat.sleep();
-        }
 ## Encapsulation
-
+https://www.tutorialspoint.com/java/java_encapsulation.htm
   
 
 ## Flow of Execution
