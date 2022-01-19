@@ -1,28 +1,15 @@
 public abstract class Animal {
 
-    protected int age;
-    protected String name;
+    private int age;
+    private String name;
 
-    // static variable is used when the variable makes
-    // sense only as part of the entire collection
-    // and not as part of an animal.
-    // here it makes sense to have a count of animal
-    // objects that are created so that we can know
-    // how many animals have been created
-    public static int count;
-
-    Animal() {
-        count++;
-    }
-
-    // common methods that can be used by children
-    // without writing extra code
+    // methods shared between among animals
     public void sleep() {
         System.out.println(" sleeps.");
     }
 
     public void eat() {
-        System.out.println(" eats.");
+        System.out.println(" eats ");
     }
 
     // specialized methods that we don't know how to
