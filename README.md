@@ -1,5 +1,6 @@
 # Basic Java Overview
   - Covering the basic concepts in Java
+    - Object Oriented Programming (OOP)   (https://www.freecodecamp.org/news/four-pillars-of-object-oriented-programming/)
     - Classes
     - Objects
     - Methods
@@ -8,8 +9,10 @@
 ## Getting Started
   -Fork Repository
   
-  -Create Project in IntelliJ using CSV
-  *Talk about objects, classes and methods here*
+  -Create Project in IntelliJ using CSV  *Talk about objects, classes and methods here*
+  
+  
+  
   
   
   
