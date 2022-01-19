@@ -16,8 +16,7 @@
   -Within the MainRunner.java file, we can see how to create objects from classes, and how to call methods
   
 ## Abstraction
-  -https://www.javatpoint.com/abstract-class-in-java
-  -Example code
+  https://www.javatpoint.com/abstract-class-in-java
 
         Dog dog = new Dog();
         System.out.print("The dog");
